@@ -1,0 +1,164 @@
+body {
+    background-image: url(../images/memphis-colorful/memphis-colorful.png);
+}
+
+.navbar-header {
+    height: 71px;
+    background-color: pink;
+    padding-left: 20px;
+}
+
+.navbar-header:hover {
+    background-color: lightcoral;
+}
+
+.navbar {
+    border-bottom: solid 3px lightcoral;
+    height: 74px;
+    background-color: #eeeeee;
+    padding-left: 45px;
+}
+
+.navbar:hover {
+    border-bottom: solid 3px pink;
+}
+
+.nav {
+    padding-right: 100px;
+}
+
+.nav:hover {
+    color: lightcoral;
+}
+
+#portfolioname {
+    font-size: 30px;
+    padding: 25px;
+    color: white;
+}
+
+.nav-item {
+    font-size: 16px;
+    padding: 10px;
+}
+
+.nav-item {
+    background-color: #eeeeee;
+    text-align: right;
+    right: 0 !important;
+}
+
+.linkhover:hover {
+    color: pink !important;
+}
+
+.page-header {
+    background-color: white;
+    padding-top: 5px;
+    border-top: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    border-bottom: 3px solid #dddddd;
+    margin-top: 20px;
+}
+
+.container {
+    overflow: auto;
+    margin: 0 auto 100px auto;
+}
+
+#mainsection {
+    padding-left: 20px;
+    color: lightcoral;
+
+}
+
+#bio {
+    background-color: white;
+    padding: 20px;
+}
+
+.img-thumbnail {
+    margin: 20px;
+}
+
+.panel {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.panel-title {
+    text-align: center;
+    color: lightcoral;
+    font-size: 20px;
+}
+
+.panel-heading {
+    border-bottom: 3px solid;
+    padding: 25px;
+}
+
+.panel-body {
+    height: 120px;
+    padding-bottom: 30px;
+    padding-top: 5px;
+    padding-left: 40px;
+}
+
+.form-group {
+    margin: 20px;
+    font-size: 15px;
+    color: grey;
+}
+
+#submitbtn {
+    margin-left: 20px;
+    font-size: 15px;
+    background-color: pink;
+}
+
+#submitbtn:hover {
+    background-color: lightcoral;
+}
+
+.sourcelinks {
+    display: inline;
+    padding: 0px;
+    margin: auto;
+    height: 80%;
+    width: 28%;
+    margin-top: 20px;
+}
+
+.sourcelinks:hover {
+    opacity: .7;
+}
+
+.caption {
+    margin: -9px;
+}
+
+.btn {
+    margin-left: 75px;
+    margin-top: 15px;
+    background-color: pink;
+}
+
+.btn:hover {
+    background-color: lightcoral;
+}
+
+.btn:focus {
+    background-color: lightcoral;
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+
+.navbar-fixed-bottom {
+    border-top: solid 3px pink;
+}
+
